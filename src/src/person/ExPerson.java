@@ -9,7 +9,6 @@ public class ExPerson {
 		hwang.age	= 20;
 		hwang.gender	= true;
 		hwang.blood = "A";
-    test;
 		
 		System.out.println(hwang.name + "은 " + hwang.job + "이고 " + hwang.age + "살이며, ");
 		if (hwang.gender)	System.out.println("여성이면서 ");
