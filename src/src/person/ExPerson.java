@@ -13,7 +13,7 @@ public class ExPerson {
 		System.out.println(hwang.name + "은 " + hwang.job + "이고 " + hwang.age + "살이며, ");
 		if (hwang.gender)	System.out.println("여성이면서 ");
 		else				System.out.println("남성이면서 ");
-		System.out.println("혈액형은 " + hwang.blood + "형입니다.\n");
+		System.out.println("혈액형은 " + hwang.blood + "형입니다!\n");
 		
 		Person kang = new Person();
 		kang.name	= "강선화";
