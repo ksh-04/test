@@ -7,7 +7,7 @@ public class ExPerson {
 		hwang.name	= "황수연";
 		hwang.job	= "컴퓨터 과학 전공 학생";
 		hwang.age	= 20;
-		hwang.gender	= true;
+		hwang.gender	= false;
 		hwang.blood = "A";
 		
 		System.out.println(hwang.name + "은 " + hwang.job + "이고 " + hwang.age + "살이며, ");
